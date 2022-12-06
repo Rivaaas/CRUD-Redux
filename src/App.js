@@ -4,7 +4,6 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import NuevoProducto from "./components/NuevoProducto";
 import EditarProducto from "./components/EditarProducto";
 
-
 //REDUX
 import { Provider } from 'react-redux'
 import store from './store'
